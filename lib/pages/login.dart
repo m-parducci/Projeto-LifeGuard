@@ -14,7 +14,7 @@ class _loginState extends State<login> {
         Padding(
           padding: const EdgeInsets.fromLTRB(15, 10, 0, 0),
           child: Text(
-            'E-mail:',
+            'E-mail principal:',
             style: TextStyle(
               fontSize: 20,
               fontWeight: FontWeight.w300,
